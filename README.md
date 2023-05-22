@@ -186,7 +186,7 @@ Término | Significado
 
 <img src="P3/Layout/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
 
-<img src="P3/Layout/QuiénesSomos.png" alt="¿Quiénes somos?" width="300">
+<img src="P3/Layout/Quiénes somos.png" alt="¿Quiénes somos?" width="300">
 
 <img src="P3/Layout/Artistas.png" alt="Presentación de artistas" width="300">
 
@@ -196,7 +196,7 @@ Término | Significado
 
 <img src="P3/Layout/Agenda.png" alt="Agenda de la Alboreá" width="300">
 
-<img src="P3/Layout/MenusCena.png" alt="Menús de  cena" width="300">
+<img src="P3/Layout/Menús de cena.png" alt="Menús de  cena" width="300">
 
 <img src="P3/Layout/Promociones.png" alt="Promociones y descuentos" width="300">
 
@@ -208,7 +208,7 @@ Término | Significado
 
 <img src="P3/Layout/Contacto Esp.png" alt="Contacto" width="300">
 
-<img src="P3/Layout/Contacto Eng.png" alt="Contacto" width="300">
+<img src="P3/Layout/Contacto En.png" alt="Contacto" width="300">
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
