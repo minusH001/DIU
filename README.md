@@ -9,7 +9,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> La meta principal consiste en alcanzar el desarrollo de un sitio web que se ajuste a todas las audiencias, proporcionando contenido de excelencia y atractivo. Se debería de garantizar su navegación fluida, mediante una estructura lógica y ordenada, segmentada en secciones que faciliten la comprensión de la información presentada. 
 
 Logotipo: 
 >>> ![Logotipo](./img/Logoo.PNG)
