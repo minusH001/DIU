@@ -73,15 +73,13 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 ![Malla receptora](P2/MallaReceptora.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> Lo que se plantea como propuesta de valor es conseguir más interacción, y hacer que el diseño sea más llamativo y atractivo a pesar del uso abundante de colores apagados teniendo en cuenta el tema que estamos tratando "El Flamenco" que va siempre relacionado con colores agudos, y la misión es hacer que dichos colores atraigan más. 
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>>  ![Propuesta de valor](P2/propuestaValor.jpeg)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
