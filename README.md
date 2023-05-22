@@ -166,15 +166,24 @@ Término | Significado
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
+![Landing Page](P3/LandingPage.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Se han tenido que analizar las necesidades de los usuarios para saber cómo facilitar su uso de nuestra Web. Tomando como referencia la información proporcionada en ui-patterns.com trataremos:
+**Carrusel de imágenes**. Es un patrón importante a considerar en el diseño. Se ha usado porque permite mostrar varias imágenes en un espacio limitado, permitiendo a los usuarios desplazarse entre ellas de forma interactiva.
+La **barra de búsqueda** es otro patrón a considerar para el diseño. Este patrón permite a los usuarios buscar contenido específico dentro de la aplicación o sitio web. Es una herramienta clave para la navegación eficiente y la recuperación de información relevante. En mi caso la he usado en la sección de preguntas frecuentes.
+La **navegación** es un aspecto crucial en el diseño del sitio web, ya que permite a los usuarios moverse de manera intuitiva por el contenido y acceder a las diferentes secciones y funcionalidades.
+**Vertical Dropdown Menu**. Principalmente utilizado en la navegación y en la página donde los usuarios realizarían las reservas, ahorrando espacio de pantalla.
+Las **barras de paginación** son un patrón de navegación comúnmente utilizado para mostrar y permitir la navegación entre múltiples páginas de contenido. Se usa en este caso para dividir en varias páginas el contenido para una mejor organización y carga más rápida, y así evitar que la página esté cargada con mucho contenido que aburra al usuario.
+**Event calendar**. Permite a los usuarios ver y explorar eventos en un formato de calendario, brindándoles una visión general de las fechas y horarios de los eventos planificados. Se ha usado en este caso en la agenda de los eventos de flamenco que presenta la Alboreá en un mes concreto.
+**Home link**. El logo de la aplicación será usado como enlace para volver a la página de inicio.
+**Iconos**. También destaca el uso de iconos, elementos visuales efectivos y versátiles que complementan y mejoran la interfaz de usuario del sitio web.
+**Tipografía:**
+Para los cuerpos de texto se ha decantado por el uso de "**Roboto**", que es una tipografía sans-serif popular que ofrece una excelente legibilidad y versatilidad en diferentes tamaños de texto.
+Para los títulos se ha optado por el uso de “**Montserrat**”, que es una fuente sans-serif con un estilo moderno y limpio, que aporta una apariencia sofisticada y legible a los títulos.
+**Colores**: Rojo pasión, negro profundo, blanco puro, dorado brillante y azul profundo.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
