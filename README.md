@@ -92,8 +92,6 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 ----
 ![Sitemap](P2/siteMap.png)
 
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
   Inicio  | Se da la bienvenida al cliente y se le proporcionar lo que pueda necesitar (reserva, agenda, conocernos)
@@ -121,6 +119,37 @@ Término | Significado
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+
+![Inicio](P2/Bocetos/Inicio.png)
+
+![Historia del Flamenco](P2/Bocetos/Historia.png)
+
+![Accesorios del Flamenco](P2/Bocetos/Accesorios.png)
+
+![Eventos de Flamenco en Granada](P2/Bocetos/Eventos.png)
+
+![¿Quiénes somos?](P2/Bocetos/QuiénesSomos.png)
+
+![Presentación de artistas](P2/Bocetos/Artistas.png)
+
+![Galería (archivo)](P2/Bocetos/Galería.png)
+
+![Experiencias a vivir](P2/Bocetos/Experiencias.png)
+
+![Agenda de la Alboreá](P2/Bocetos/Agenda.png)
+
+![Menús de  cena](P2/Bocetos/MenusCena.png)
+
+![Promociones y descuentos](P2/Bocetos/Promociones.png)
+
+![Reservar entrada](P2/Bocetos/ReservaYa.png)
+
+![Pautas a seguir](P2/Bocetos/TengoReserva.png)
+
+![Preguntas frecuentes](P2/Bocetos/FAQ.png)
+
+![Contacto](P2/Bocetos/Contacto.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
