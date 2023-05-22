@@ -89,7 +89,7 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+![Sitemap](P2/siteMap.png)
 
 >>> Identificar términos para diálogo con usuario  
 
