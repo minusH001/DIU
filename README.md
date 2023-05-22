@@ -121,35 +121,35 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="300">
+<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="250">
 
-![Historia del Flamenco](P2/Bocetos/Historia.png)
+<img src="P2/Bocetos/Historia.png" alt="Historia del Flamenco" width="300">
 
-![Accesorios del Flamenco](P2/Bocetos/Accesorios.png)
+<img src="P2/Bocetos/Accesorios.png" alt="Accesorios del Flamenco" width="300">
 
-![Eventos de Flamenco en Granada](P2/Bocetos/Eventos.png)
+<img src="P2/Bocetos/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
 
-![¿Quiénes somos?](P2/Bocetos/QuiénesSomos.png)
+<img src="P2/Bocetos/QuiénesSomos.png" alt="¿Quiénes somos?" width="300">
 
-![Presentación de artistas](P2/Bocetos/Artistas.png)
+<img src="P2/Bocetos/Artistas.png" alt="Presentación de artistas" width="300">
 
-![Galería (archivo)](P2/Bocetos/Galería.png)
+<img src="P2/Bocetos/Galería.png" alt="Galería" width="300">
 
-![Experiencias a vivir](P2/Bocetos/Experiencias.png)
+<img src="P2/Bocetos/Experiencias.png" alt="Experiencias a vivir" width="300">
 
-![Agenda de la Alboreá](P2/Bocetos/Agenda.png)
+<img src="P2/Bocetos/Agenda.png" alt="Agenda de la Alboreá" width="300">
 
-![Menús de  cena](P2/Bocetos/MenusCena.png)
+<img src="P2/Bocetos/MenusCena.png" alt="Menús de  cena" width="300">
 
-![Promociones y descuentos](P2/Bocetos/Promociones.png)
+<img src="P2/Bocetos/Promociones.png" alt="Promociones y descuentos" width="300">
 
-![Reservar entrada](P2/Bocetos/ReservaYa.png)
+<img src="P2/Bocetos/ReservaYa.png" alt="Reservar entrada" width="300">
 
-![Pautas a seguir](P2/Bocetos/TengoReserva.png)
+<img src="P2/Bocetos/TengoReserva.png" alt="Pautas a seguir" width="300">
 
-![Preguntas frecuentes](P2/Bocetos/FAQ.png)
+<img src="P2/Bocetos/FAQ.png" alt="Preguntas frecuentes" width="300">
 
-![Contacto](P2/Bocetos/Contacto.png)
+<img src="P2/Bocetos/Contacto.png" alt="Contacto" width="300">
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
