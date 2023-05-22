@@ -118,37 +118,51 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Mi gran objetivo era procurar que en cada página hayala mínima cantidad de texto, y hacer que fuera más interactiva la página (vídeos, imágenes). Asimismo, evitar que las páginas fueran muy cargadas con mucho contenido para que no resulte aburrido el asunto.
 
-
+>>>Esta es la página de inicio donde se le daría la bienvenida, se le da la opción de reservar, consultar la agenda o elegir algún enlace de interés para conocer más sobre "La Alboreá" o sobre la Historia del Flamenco en general
 <img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="300">
 
+>>>
 <img src="P2/Bocetos/Historia.png" alt="Historia del Flamenco" width="300">
 
+>>>
 <img src="P2/Bocetos/Accesorios.png" alt="Accesorios del Flamenco" width="300">
 
+>>>
 <img src="P2/Bocetos/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
 
+>>>
 <img src="P2/Bocetos/QuiénesSomos.png" alt="¿Quiénes somos?" width="300">
 
+>>>
 <img src="P2/Bocetos/Artistas.png" alt="Presentación de artistas" width="300">
 
+>>>
 <img src="P2/Bocetos/Galería.png" alt="Galería" width="300">
 
+>>>
 <img src="P2/Bocetos/Experiencias.png" alt="Experiencias a vivir" width="300">
 
+>>>
 <img src="P2/Bocetos/Agenda.png" alt="Agenda de la Alboreá" width="300">
 
+>>>
 <img src="P2/Bocetos/MenusCena.png" alt="Menús de  cena" width="300">
 
+>>>
 <img src="P2/Bocetos/Promociones.png" alt="Promociones y descuentos" width="300">
 
+>>>
 <img src="P2/Bocetos/ReservaYa.png" alt="Reservar entrada" width="300">
 
+>>>
 <img src="P2/Bocetos/TengoReserva.png" alt="Pautas a seguir" width="300">
 
+>>>
 <img src="P2/Bocetos/FAQ.png" alt="Preguntas frecuentes" width="300">
 
+>>>
 <img src="P2/Bocetos/Contacto.png" alt="Contacto" width="300">
 
 
