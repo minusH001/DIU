@@ -1,5 +1,5 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao de Flamenco "La Alboreá" ) 
 
 Grupo: DIU1_01AABB.  Curso: 2022/23 
 Updated: 11/1/2023
