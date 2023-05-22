@@ -100,13 +100,13 @@ Término | Significado
   Flamenco¿?  | Sección para conocer más al flamenco (se divide en Historia, Accesorios, Eventos)
   Historia¿?  | La historia del Flamenco a través de un vídeo subtitulado, junto con enlaces a (Accesorios, Eventos)
   Accesorios¿?  | Accesorios típicos del flamenco
-  Eventos¿?  | Eventos de Flamenco organizados en Granada
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
+  Eventos¿?  | Eventos de Flamenco organizados en Granada, y opción de suscripción para recibir novedades
+  Conócenos¿?  | Sección dedicada a personas que nos visitan por primera vez. Presentamos a nuestro tablao, artistas y galería
+  ¿Quiénes somos?¿?  | La historia de "La Alboreá" a través de un vídeo subtitulado y enlace para los menús de cena
+  Artistas¿?  | Se presenta a nuestros artistas de cante, baile y guitarra
+  Galería¿?  | Es un archivo con tomas de actuaciones anteriores para que los nuevos clientes tengan idea del ambiente que se vive
+  Experiencias¿?  | Experiencias a vivir tanto en nuestro tablao de flamenco "La Alboreá" como en la ciudad de Granada
+  Agenda¿?  | Agenda del mes actual que informa de los artistas disponibles para un día concreto y highlights de actuaciones anteriores de dichos artistas
   Login¿?  | acceder a plataforma
   Login¿?  | acceder a plataforma
   Login¿?  | acceder a plataforma
