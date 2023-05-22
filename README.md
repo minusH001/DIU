@@ -13,6 +13,7 @@ Descripción:
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Texto alternativo](./img/Logoo.PNG)
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
