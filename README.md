@@ -122,7 +122,7 @@ Término | Significado
 
 
 
-<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" style="max-width: 300px;">
+<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" style="max-width: 30px;">
 
 ![Historia del Flamenco](P2/Bocetos/Historia.png)
 
