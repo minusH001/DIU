@@ -96,25 +96,25 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 
 Término | Significado     
 | ------------- | -------
-  Inicio¿?  | Se da la bienvenida al cliente y se le proporcionar lo que pueda necesitar (reserva, agenda, conocernos)
-  Flamenco¿?  | Sección para conocer más al flamenco (se divide en Historia, Accesorios, Eventos)
-  Historia¿?  | La historia del Flamenco a través de un vídeo subtitulado, junto con enlaces a (Accesorios, Eventos)
-  Accesorios¿?  | Accesorios típicos del flamenco
-  Eventos¿?  | Eventos de Flamenco organizados en Granada, y opción de suscripción para recibir novedades
-  Conócenos¿?  | Sección dedicada a personas que nos visitan por primera vez. Presentamos a nuestro tablao, artistas y galería
-  ¿Quiénes somos?¿?  | La historia de "La Alboreá" a través de un vídeo subtitulado y enlace para los menús de cena
-  Artistas¿?  | Se presenta a nuestros artistas de cante, baile y guitarra
-  Galería¿?  | Es un archivo con tomas de actuaciones anteriores para que los nuevos clientes tengan idea del ambiente que se vive
-  Experiencias¿?  | Experiencias a vivir tanto en nuestro tablao de flamenco "La Alboreá" como en la ciudad de Granada
-  Agenda¿?  | Agenda del mes actual que informa de los artistas disponibles para un día concreto y highlights de actuaciones anteriores de dichos artistas
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
-  Login¿?  | acceder a plataforma
+  Inicio  | Se da la bienvenida al cliente y se le proporcionar lo que pueda necesitar (reserva, agenda, conocernos)
+  Flamenco  | Sección para conocer más al flamenco (se divide en Historia, Accesorios, Eventos)
+  Historia  | La historia del Flamenco a través de un vídeo subtitulado, junto con enlaces a (Accesorios, Eventos)
+  Accesorios  | Accesorios típicos del flamenco
+  Eventos | Eventos de Flamenco organizados en Granada, y opción de suscripción para recibir novedades
+  Conócenos  | Sección dedicada a personas que nos visitan por primera vez. Presentamos a nuestro tablao, artistas y galería
+  ¿Quiénes somos?  | La historia de "La Alboreá" a través de un vídeo subtitulado y enlace para los menús de cena
+  Artistas  | Se presenta a nuestros artistas de cante, baile y guitarra
+  Galería  | Es un archivo con tomas de actuaciones anteriores para que los nuevos clientes tengan idea del ambiente que se vive
+  Experiencias  | Experiencias a vivir tanto en nuestro tablao de flamenco "La Alboreá" como en la ciudad de Granada
+  Agenda  | Agenda del mes actual que informa de los artistas disponibles para un día concreto y highlights de actuaciones anteriores de dichos artistas
+  Reserva  | Es la sección principal contiene: (Reservas, pautas a seguir, menús de cena, descuentos)
+  Menús de cena  | Se presenta la variedad de menús de la que se dispone
+  Promociones | Descuentos que se puedan aplicar a clientes
+  ¡Reserva ya!  | Realizar la reserva y su pago
+  ¡Tengo reserva!  | Pautas a tener en cuenta una vez que se haya reservado para vivir la mejor experiencia en La Alboreá
+  Preguntas frecuentes¿?  | Colección de preguntas que se les suele ocurrir a los clientes, por lo que se responden allí para resolver dudas. Y se pone un enlace para contactar
+  Contacto  | Formulario que debería rellenar el usuario para contactar con La Alboreá
+  Idiomas  | Sección dedicada en especial para turistas para elegir el idioma que prefieran entre los disponibles
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
