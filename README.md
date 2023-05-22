@@ -84,7 +84,8 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Fichero PDF: [Task matrix](P2/taskMatrix.pdf)
+>>> En esta sección se recogen las tareas que pueden tener uso en la página web y se va valorando el uso que es previsto que le dé cada perfil de usuarios. Como conclusión, se puede observar que la mayoría de las tareas son relevantes para todos los perfiles de usuario, y que todas tienen una frecuencia de uso alta o media. Sin embargo, destacamos que la tarea de "Reservar entradas" es crítica e importante para todos los perfiles de usuario. 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -95,6 +96,24 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 
 Término | Significado     
 | ------------- | -------
+  Inicio¿?  | Se da la bienvenida al cliente y se le proporcionar lo que pueda necesitar (reserva, agenda, conocernos)
+  Flamenco¿?  | Sección para conocer más al flamenco (se divide en Historia, Accesorios, Eventos)
+  Historia¿?  | La historia del Flamenco a través de un vídeo subtitulado, junto con enlaces a (Accesorios, Eventos)
+  Accesorios¿?  | Accesorios típicos del flamenco
+  Eventos¿?  | Eventos de Flamenco organizados en Granada
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
+  Login¿?  | acceder a plataforma
   Login¿?  | acceder a plataforma
 
 
