@@ -200,13 +200,15 @@ Término | Significado
 
 <img src="P3/Layout/Promociones.png" alt="Promociones y descuentos" width="300">
 
-<img src="P3/Layout/ReservaYa.png" alt="Reservar entrada" width="300">
+<img src="P3/Layout/Reserva ya.png" alt="Reservar entrada" width="300">
 
-<img src="P3/Layout/TengoReserva.png" alt="Pautas a seguir" width="300">
+<img src="P3/Layout/Tengo reserva.png" alt="Pautas a seguir" width="300">
 
 <img src="P3/Layout/FAQ.png" alt="Preguntas frecuentes" width="300">
 
-<img src="P3/Layout/Contacto.png" alt="Contacto" width="300">
+<img src="P3/Layout/Contacto Esp.png" alt="Contacto" width="300">
+
+<img src="P3/Layout/Contacto Eng.png" alt="Contacto" width="300">
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
