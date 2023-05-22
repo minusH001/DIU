@@ -121,7 +121,8 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-![Inicio](P2/Bocetos/Inicio.png)
+
+<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" style="max-width: 300px;">
 
 ![Historia del Flamenco](P2/Bocetos/Historia.png)
 
