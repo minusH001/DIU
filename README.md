@@ -5,7 +5,7 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Reestructuración de la página web de "La Alboreá"
 
 Descripción: 
 
