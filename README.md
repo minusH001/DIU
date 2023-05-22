@@ -154,9 +154,12 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Se recomienda descargar la imagen y ampliarla para ver el contenido con más claridad.
+
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+
+
+>>> Se recomienda descargar la imagen y ampliarla para ver el contenido con más claridad.
 
 ![Moodboard](P3/Moodboard.png)
 
