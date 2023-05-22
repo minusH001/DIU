@@ -59,9 +59,9 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  [Texto del enlace](P1/Usability-review.pdf)
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [Usability Review](P1/Usability-review.pdf)
+>>> - Valoración final (numérica): 7,5
+>>> - Comentario sobre la valoración:  El sitio web cuenta con fácil acceso y navegación, ya que las tareas principales se encuentran en el menú de navegación que sobresale por los colores y el diseño empleado, no obstante, carece de interfaces de búsqueda las cuales serían de gran utilidad para el usuario. Las características y la funcionalidad permiten a los usuarios llevar a cabo adecuadamente sus operaciones gracias a la detallada descripción de los servicios del sitio web acompañados con soporte multimedia de imágenes y vídeos, aunque la distribución de las imágenes y el texto resulta un poco confusa en la página principal. La estructura de la aplicación permite a los usuarios llevar a cabo sus tareas de forma intuitiva y cuenta con indicadores del progreso de los procesos.
 
 
 ## Paso 2. UX Design  
