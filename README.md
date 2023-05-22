@@ -43,10 +43,11 @@ Miembros
 
 ![Persona 2](img/Persona2.jpg)
 
-•	Valoración de las personas elegidas:
+•	*Valoración de las personas elegidas:*
 
-    o	María: Es una persona ideal para nuestro tema, porque de pequeña bailaba flamenco. O sea que es cercana a este mundo, al igual que su amiga, por lo que es lógico que si quiere disfrutar de algún momento especial no encontrará mejor sitio donde hacerlo que en un mundo al que ya perteneció.
-    o	Min-Ho: Me convenció esta persona también porque es de carácter aventurero, con ganas de explorar tradiciones y gastronomía nueva, por lo que un tablao de flamenco sería un escenario idóneo para una pareja de recién casados que quiere vivir momentos inolvidables juntos.
+*María*: Es una persona ideal para nuestro tema, porque de pequeña bailaba flamenco. O sea que es cercana a este mundo, al igual que su amiga, por lo que es lógico que si quiere disfrutar de algún momento especial no encontrará mejor sitio donde hacerlo que en un mundo al que ya perteneció.
+
+*Min-Ho*: Me convenció esta persona también porque es de carácter aventurero, con ganas de explorar tradiciones y gastronomía nueva, por lo que un tablao de flamenco sería un escenario idóneo para una pareja de recién casados que quiere vivir momentos inolvidables juntos.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
