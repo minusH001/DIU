@@ -121,7 +121,7 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="250">
+<img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="300">
 
 <img src="P2/Bocetos/Historia.png" alt="Historia del Flamenco" width="300">
 
@@ -178,8 +178,35 @@ Término | Significado
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+<img src="P3/Layout/Inicio.png" alt="Mi imagen" width="300">
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+<img src="P3/Layout/Historia.png" alt="Historia del Flamenco" width="300">
+
+<img src="P3/Layout/Accesorios.png" alt="Accesorios del Flamenco" width="300">
+
+<img src="P3/Layout/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
+
+<img src="P3/Layout/QuiénesSomos.png" alt="¿Quiénes somos?" width="300">
+
+<img src="P3/Layout/Artistas.png" alt="Presentación de artistas" width="300">
+
+<img src="P3/Layout/Galería.png" alt="Galería" width="300">
+
+<img src="P3/Layout/Experiencias.png" alt="Experiencias a vivir" width="300">
+
+<img src="P3/Layout/Agenda.png" alt="Agenda de la Alboreá" width="300">
+
+<img src="P3/Layout/MenusCena.png" alt="Menús de  cena" width="300">
+
+<img src="P3/Layout/Promociones.png" alt="Promociones y descuentos" width="300">
+
+<img src="P3/Layout/ReservaYa.png" alt="Reservar entrada" width="300">
+
+<img src="P3/Layout/TengoReserva.png" alt="Pautas a seguir" width="300">
+
+<img src="P3/Layout/FAQ.png" alt="Preguntas frecuentes" width="300">
+
+<img src="P3/Layout/Contacto.png" alt="Contacto" width="300">
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
