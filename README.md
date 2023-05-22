@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao de Flamenco "La Alboreá" ) 
 
 Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Updated: 22/05/2023
 
 Proyecto: 
 >>> Reestructuración de la página web de "La Alboreá"
@@ -119,52 +119,52 @@ Término | Significado
 -----
 
 >>> Mi gran objetivo era procurar que en cada página hayala mínima cantidad de texto, y hacer que fuera más interactiva la página (vídeos, imágenes). Asimismo, evitar que las páginas fueran muy cargadas con mucho contenido para que no resulte aburrido el asunto.
-
+<br><br>
 >>>Esta es la página de inicio donde se le daría la bienvenida, se le da la opción de reservar, consultar la agenda o elegir algún enlace de interés para conocer más sobre "La Alboreá" o sobre la Historia del Flamenco en general
 <img src="P2/Bocetos/Inicio.png" alt="Mi imagen" width="300">
-
+<br><br>
 >>> En esta página se expone la Historia del Flamenco. Podía hberse hecho con texto, pero resultaría aburrido, mientras que un vídeo resultaría más entretenido. También hay enlaces para ir a otras páginas de contenido relacionado.
 <img src="P2/Bocetos/Historia.png" alt="Historia del Flamenco" width="300">
-
+<br><br>
 >>>Esta página es relacionada con la anterior. Da a conocer los típicos accesorios de flamenco. Junto a cada imagen se pone una breve descripción.
 <img src="P2/Bocetos/Accesorios.png" alt="Accesorios del Flamenco" width="300">
-
+<br><br>
 >>>En esta página hay un enlace que me lleva a conocer los eventos de Flamenco que están por celebrarse este mes en Granada, y un label donde el usuario pueda suscribirse para recibir novedades
 <img src="P2/Bocetos/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
-
+<br><br>
 >>> En esta página, a través de un vídeo se presenta lo que es "La Alboreá" (especialmente para nuevos clientes) y se ponen enseguida reseñas de clientes que habían visitado al Tablao.
 <img src="P2/Bocetos/QuiénesSomos.png" alt="¿Quiénes somos?" width="300">
-
+<br><br>
 >>>En esta página se presenta a nuestros artistas de cante, baile y guitarra. En cada página se ponen 3 artistas y se dispone de una barra de paginación para pasar de una página a otra.
 <img src="P2/Bocetos/Artistas.png" alt="Presentación de artistas" width="300">
-
+<br><br>
 >>> En esta página se guardan ciertas tomas de actuaciones anteriores para que los clientes tengan una idea sobre lo que van a vivir en el tablao.
 <img src="P2/Bocetos/Galería.png" alt="Galería" width="300">
-
+<br><br>
 >>> En esta página se presentan experiencias que el usuario pueda vivir tanto en La Alboreá (clases de flamenco, sesiones de fotos con accesorios del flamenco...), como en la ciudad de Granada.
 <img src="P2/Bocetos/Experiencias.png" alt="Experiencias a vivir" width="300">
-
+<br><br>
 >>> En esta página se dispone de un calendario (del mes actual) y el usuario lo que hace seleccionar el día que le conviene para que le aparezcan los nombres de los artistas que tocarían para ese día, y un vídeo que rúne ciertas tomas de actuaciones de dichos artistas.
 <img src="P2/Bocetos/Agenda.png" alt="Agenda de la Alboreá" width="300">
-
+<br><br>
 >>> En esta página se presenta el menú de cena que se puede encontrar y pedir una vez que esté el cliente en La Alboreá. Por eso viene bien que el cliente llegue con la idea clara de lo que va a cenar
 <img src="P2/Bocetos/MenusCena.png" alt="Menús de  cena" width="300">
-
+<br><br>
 >>> En esta página se da información sobre los descuentos que se puedan realizar a grupos de estudianttes, residentes en Granada o personas con muchas visitas al Tablao acumuladas 
 <img src="P2/Bocetos/Promociones.png" alt="Promociones y descuentos" width="300">
-
+<br><br>
 >>> En esta página se realiza la reserva de la entrada seleccionado la cantidad de entradas y realizando el pago
 <img src="P2/Bocetos/ReservaYa.png" alt="Reservar entrada" width="300">
-
+<br><br>
 >>> Una vez que se tenga la reserva, La Alboreá establece para su clientela unas pautas a tener en cuenta para vivir la mejor experiencia posible
 <img src="P2/Bocetos/TengoReserva.png" alt="Pautas a seguir" width="300">
-
+<br><br>
 >>> En esta página vienen recogidas ciertas preguntas que han ido planteándose muchos clientes y que puede ser de utilidad para otros clientes
 <img src="P2/Bocetos/FAQ.png" alt="Preguntas frecuentes" width="300">
-
+<br><br>
 >>> A través de esta página puede el usuario contactar rellenando el formulario con sus datos y exponer sus dudas en el apartado de "mensaje"
 <img src="P2/Bocetos/Contacto.png" alt="Contacto" width="300">
-
+<br><br>
 >>> Cabe resaltar que en la mayoría de páginas se pone el botón de "Reserva ya!" para que el usuario tenga la opción de reservar cerca en todo instante
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -180,6 +180,7 @@ Término | Significado
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+>>> Se ha usado la resolución máxima y el botón "visítanos" nos lleva a la página de La Alboreá
 ![Landing Page](P3/LandingPage.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
@@ -203,55 +204,55 @@ Para los títulos se ha optado por el uso de “**Montserrat**”, que es una fu
 ----
 >>> Aquí al desplazarse por la navegación de una página a otra, se resalta en color rojo la seción en la que estoy ( de la navegación ) para saber en qué parte estamos y hasta se lanzan los desplegables de la navegación
 
-
+<br><br>
 >>>Esta es la página de inicio donde se le daría la bienvenida, se le da la opción de reservar, consultar la agenda o elegir algún enlace de interés para conocer más sobre "La Alboreá" o sobre la Historia del Flamenco en general
 <img src="P3/Layout/Inicio.png" alt="Mi imagen" width="300">
-
+<br><br>
 >>>Esta es la página de inicio donde se le daría la bienvenida, se le da la opción de reservar, consultar la agenda o elegir algún enlace de interés para conocer más sobre "La Alboreá" o sobre la Historia del Flamenco en general
 <img src="P3/Layout/Historia.png" alt="Historia del Flamenco" width="300">
-
+<br><br>
 >>>Esta página es relacionada con la anterior. Da a conocer los típicos accesorios de flamenco. Junto a cada imagen se pone una breve descripción.
 <img src="P3/Layout/Accesorios.png" alt="Accesorios del Flamenco" width="300">
-
+<br><br>
 >>>En esta página hay un enlace que me lleva a conocer los eventos de Flamenco que están por celebrarse este mes en Granada, y un label donde el usuario pueda suscribirse para recibir novedades
 <img src="P3/Layout/Eventos.png" alt="Eventos de Flamenco en Granada" width="300">
-
+<br><br>
 >>> En esta página, a través de un vídeo se presenta lo que es "La Alboreá" (especialmente para nuevos clientes) y se ponen enseguida reseñas de clientes que habían visitado al Tablao.
 <img src="P3/Layout/Quiénes somos.png" alt="¿Quiénes somos?" width="300">
-
+<br><br>
 >>>En esta página se presenta a nuestros artistas de cante, baile y guitarra. En cada página se ponen 3 artistas y se dispone de una barra de paginación para pasar de una página a otra.
 <img src="P3/Layout/Artistas.png" alt="Presentación de artistas" width="300">
-
+<br><br>
 >>> En esta página se guardan ciertas tomas de actuaciones anteriores para que los clientes tengan una idea sobre lo que van a vivir en el tablao.
 <img src="P3/Layout/Galería.png" alt="Galería" width="300">
-
+<br><br>
 >>> En esta página se presentan experiencias que el usuario pueda vivir tanto en La Alboreá (clases de flamenco, sesiones de fotos con accesorios del flamenco...), como en la ciudad de Granada.
 <img src="P3/Layout/Experiencias.png" alt="Experiencias a vivir" width="300">
-
+<br><br>
 >>> En esta página se dispone de un calendario (del mes actual) y el usuario lo que hace seleccionar el día que le conviene para que le aparezcan los nombres de los artistas que tocarían para ese día, y un vídeo que rúne ciertas tomas de actuaciones de dichos artistas.
 <img src="P3/Layout/Agenda.png" alt="Agenda de la Alboreá" width="300">
-
+<br><br>
 >>> En esta página se presenta el menú de cena que se puede encontrar y pedir una vez que esté el cliente en La Alboreá. Por eso viene bien que el cliente llegue con la idea clara de lo que va a cenar
 <img src="P3/Layout/Menús de cena.png" alt="Menús de  cena" width="300">
-
+<br><br>
 >>> En esta página se da información sobre los descuentos que se puedan realizar a grupos de estudianttes, residentes en Granada o personas con muchas visitas al Tablao acumuladas 
 <img src="P3/Layout/Promociones.png" alt="Promociones y descuentos" width="300">
-
+<br><br>
 >>> En esta página se realiza la reserva de la entrada seleccionado la cantidad de entradas y realizando el pago
 <img src="P3/Layout/Reserva ya.png" alt="Reservar entrada" width="300">
-
+<br><br>
 >>> Una vez que se tenga la reserva, La Alboreá establece para su clientela unas pautas a tener en cuenta para vivir la mejor experiencia posible
 <img src="P3/Layout/Tengo reserva.png" alt="Pautas a seguir" width="300">
-
+<br><br>
 >>> En esta página vienen recogidas ciertas preguntas que han ido planteándose muchos clientes y que puede ser de utilidad para otros clientes
 <img src="P3/Layout/FAQ.png" alt="Preguntas frecuentes" width="300">
-
+<br><br>
 >>> A través de esta página puede el usuario contactar rellenando el formulario con sus datos y exponer sus dudas en el apartado de "mensaje"
 <img src="P3/Layout/Contacto Esp.png" alt="Contacto" width="300">
-
+<br><br>
 >>> Aquí la idea es hacer una simulación del cambio de idioma con la página del contacto
 <img src="P3/Layout/Contacto En.png" alt="Contacto" width="300">
-
+<br>
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
