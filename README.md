@@ -12,18 +12,13 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
->>> ![Texto alternativo](./img/Logoo.PNG)
+>>> ![Logotipo](./img/Logoo.PNG)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Amine Azzammouri     :octocat:
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -34,7 +29,7 @@ Miembros
 -----
 ![Competitor Analysis](img/CompetitorAnalysis.jpg)
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Es un análisis cuyo objetivo es hallar en qué competencias podrían suponer una rivalidad (mejor o peor), y en qué también debería de mejorar. En nuestro caso se tomaron dos ejemplos que ofrecen el mismo servicio, además de que son de la misma zona. Se ve claramente que el local asignado en la práctica “la Alboreá” destaca por encima de sus rivales en el aspecto tecnológico, ya que ofrece posibilidades más cómodas para el contacto, también destaca en cuanto a diseño o a producto ofrecido y variabilidad.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -64,7 +59,7 @@ En tales mapas se refleja cómo esas personas vivieron esa experiencia, qué pro
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento:  [Texto del enlace](P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
