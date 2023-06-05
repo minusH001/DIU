@@ -309,13 +309,7 @@ Los elementos dentro del sitio Web están bien estructurados, aunque se abusa de
     Incluir información más relevante en el footer y sin demasiada sobrecarga (símbolos de redes sociales, contacto…)
 <br><br><br><br>
 
->>> ## Paso 5. Eye Tracking  
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Eye Tracking Report 
->>>> ----
-
->>> Indica qué pretendes evaluar .
+>>> ## Paso 5. Eye Tracking Report
 
 >>> El informe completo se encuentra en: [EyeTracking_Report](P5/EyeTracking.pdf)
 
@@ -324,7 +318,7 @@ Los elementos dentro del sitio Web están bien estructurados, aunque se abusa de
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> En general, la adopción de una metodología de Diseño de Experiencia de Usuario (UX) es altamente recomendable, ya que busca comprender las necesidades y expectativas de los usuarios, generar ideas, prototipar y evaluar iterativamente las soluciones propuestas. Esto permite optimizar la experiencia del usuario y maximizar la eficacia del diseño. En cuanto a los resultados, están condicionados por el error que tuve a la hora de establecer las dimensiones de mi diseño, lo cual me lleva a pensar que cometí un error al comenzar esta práctica de forma individual, ya que las opiniones/recomendaciones ajenas siempre son de mucha utilidad. Pero en líneas generales, fue una práctica demasiado positiva ya que nos dota de mucho bagaje que nos será de gran utilidad.
 
 
 
