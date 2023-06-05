@@ -309,6 +309,9 @@ Los elementos dentro del sitio Web están bien estructurados, aunque se abusa de
     Incluir información más relevante en el footer y sin demasiada sobrecarga (símbolos de redes sociales, contacto…)
 <br><br><br><br>
 
+    También destacar que el otro grupo que estuvo encargado de evaluar mi práctica destacó detalles como mejoras necesarias en la barrade navegación (agrupación/reducción de ciertos apartados), y el uso de colores más vivos de fondo, así como el uso de barras de búsqueda con más frecuencia, algo que no considero urgentemente necesario. En cuanto a la valoración es consistente, y coincide.
+<br><br><br><br>
+
 >>> ## Paso 5. Eye Tracking Report
 
 >>> El informe completo se encuentra en: [EyeTracking_Report](P5/EyeTracking.pdf)
