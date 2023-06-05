@@ -269,57 +269,55 @@ Para los títulos se ha optado por el uso de “**Montserrat**”, que es una fu
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Se trata de una página web que ofrece la posibilidad de crear tus propios itinerarios de actividades por la ciudad de Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones a disposición del usuario.
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+![Método UX](img/Survey.png). 4.b User Testing y Cuestionario SUS
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![CuestionarioSUS](P4/CuestionarioSUS.jpg) 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.d Usability Report
+![Método UX](img/usability-report.png) 4.c Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+El informe completo se encuentra en: [Usability Report](P4/informeUsabilidad.pdf)
 
 
 >>> Valoración personal 
+A lo largo de la navegación por el sitio web se detecta cierta redundancia en etiquetas como “Tours” “Comunidad” “Sobre Nosotros” “Perfil”, ya que tanto la cabecera como el footer presentan los mismos elementos. Y es algo que se repite en todas las páginas del sitio web. Algo que podría evitarse empleando desplegables en la cabecera e incluyendo información más relevante en el footer.
+Según el vídeo de la simulación se intuye que la página principal es la misma que ha usado como landing page, ya que al pulsar al logo se retorna a la landing page. Es una práctica usable, pero no la ideal, ya que te hace fusionar ambos conceptos.
+Hay una página denominada “¿Quiénes somos?” en la cual se encuentra un texto de pocas líneas y enseguida hay botones que llevan a “Trabaja con nosotros” y “Nuestros colaboradores”. Creo que sería una mejor idea fusionar “¿Quiénes somos?” Con “Nuestros colaboradores” ya que ofrecen información relacionada, pero separando el texto de las imágenes. 
+
+Debido a que los mockups están adaptados más a bocetos que a lo que es el sitio web real, la única página que me resultó interesante y llamativa es la de “Albaicín” que supongo que ofrece información sobre el tour y comentarios. Ya que es la única que me recuerda a que sigo navegando por un sitio web de Tours. 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>> Conclusión:
+Los elementos dentro del sitio Web están bien estructurados, aunque se abusa de cierta redundancia y falta de diseño llamativo que nos haga sentir que estamos en una página de tours y no en una página random. Ciertas recomendaciones que se me ocurren son las mencionadas a continuación:
+
+    •	Reducir el número de enlaces en la Landing Page: La abundancia de enlaces puede resultar abrumadora y distraer la atención del usuario. La landing page debe tener una estructura clara y una navegación sencilla. Evita la sobrecarga de información y organiza el contenido de manera que sea fácil de leer y entender.
+
+    •	En cuanto al uso de una landing page como página principal del sitio web. El sitio web debe proporcionar información introductoria o contextual antes de que los usuarios tomen una acción específica, una landing page puede ser insuficiente, y quizás una página principal tradicional con una estructura más completa sea más adecuada.
+
+    •	Fusionar las páginas "¿Quiénes somos?" y "Nuestros colaboradores" en una sola página puede ser una forma efectiva de simplificar la estructura del sitio web y proporcionar a los usuarios una visión completa de la empresa y sus colaboradores. Esto ayudará a mejorar la experiencia del usuario al tener la información relacionada en un solo lugar y evitará la fragmentación de contenido en múltiples páginas. Lo mismo se podría aplicar a “Contacta con nosotros” y “Ponte en contacto”.
+
+    •	Identificación clara del contenido: En un sitio web de itinerarios y tours, la presencia de un símbolo de localización en el logo es un buen indicador, pero el diseño global de la página también debe reflejar el tema de los itinerarios y tours, ya sea a través de imágenes relevantes, colores temáticos o elementos visuales relacionados.
+
+    •	El uso de menús desplegables en una página web puede ser de gran importancia y beneficio para mejorar la experiencia del usuario y la organización del contenido, y así se podría ahorrar repetir el mismo contenido en la cabecera/footer.
+
+    •	Incluir información más relevante en el footer y sin demasiada sobrecarga (símbolos de redes sociales, contacto…)
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+>>> ## Paso 5. Eye Tracking  
+
+
+>>> ![Método UX](img/Accesibility.png)  5.a Eye Tracking Report 
 >>>> ----
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+>>> Indica qué pretendes evaluar .
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+>>> El informe completo se encuentra en: [EyeTracking_Report](P5/EyeTracking.pdf)
 
 
 
